@@ -1,0 +1,406 @@
+.frame-8,
+.frame-8 * {
+  box-sizing: border-box;
+}
+.frame-8 {
+  background: #ffffff;
+  height: 300vh;
+  position: relative;
+  overflow: hidden;
+}
+.formul-rio-reserva-de-sala {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 515px;
+  top: 290px;
+}
+.marca-ufpr-4 {
+  width: 158px;
+  height: 109px;
+  position: absolute;
+  left: 216.41px;
+  top: 42px;
+  object-fit: cover;
+}
+.marca-ufpr-4:hover{
+  cursor: pointer;
+}
+.container {
+  width: 1140px;
+  height: 65px;
+  position: absolute;
+  left: calc(50% - 555px);
+  top: 50.73px;
+}
+.link {
+  width: 205px;
+  height: 65px;
+  position: absolute;
+  left: 15px;
+  top: calc(50% - 32.5px);
+}
+.list {
+  width: 519.63px;
+  height: 37.39px;
+  position: absolute;
+  left: 620px;
+  top: calc(50% - 4.23px);
+}
+.item-form {
+  height: 35px;
+  position: absolute;
+  right: 305.63px;
+  left: 0px;
+  top: calc(50% - 18.69px);
+}
+.input {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #c11c05;
+  border-width: 1px;
+  width: 82.71%;
+  height: 33px;
+  position: absolute;
+  right: 16.82%;
+  left: 0.47%;
+  top: 1px;
+  overflow: hidden;
+}
+.container2 {
+  height: 19px;
+  position: absolute;
+  right: 26px;
+  left: 12px;
+  top: 7px;
+  overflow: hidden;
+}
+.pesquise-o-curso {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 13.600000381469727px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 117.88px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button {
+  background: #c11c05;
+  width: 36px;
+  height: 35px;
+  position: absolute;
+  left: 148px;
+  top: 0px;
+  cursor: pointer;
+}
+.svg {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: calc(50% - 8px);
+  top: calc(50% - 6.28px);
+  overflow: visible;
+}
+.item-link {
+  height: 30.39px;
+  position: absolute;
+  right: 282.15px;
+  left: 214px;
+  top: 0px;
+}
+.div {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 13.600000381469727px;
+  line-height: 20.4px;
+  font-weight: 600;
+  position: absolute;
+  left: 8px;
+  top: 5px;
+  width: 7.84px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-link2 {
+  height: 30.39px;
+  position: absolute;
+  right: 114.67px;
+  left: 381.4800109863281px;
+  top: 0px;
+}
+.item-link3 {
+  height: 30.39px;
+  position: absolute;
+  right: 0.01px;
+  left: 404.9599914550781px;
+  top: 0px;
+  cursor: pointer;
+}
+.svg2 {
+  width: 13.59px;
+  height: 13.59px;
+  position: absolute;
+  left: 8px;
+  top: calc(50% - 5.62px);
+  overflow: visible;
+}
+._41 {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 10px;
+  line-height: 15px;
+  font-weight: 600;
+  position: absolute;
+  left: 25.13px;
+  top: 9px;
+  width: 11.77px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._3361-4906 {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 13.600000381469727px;
+  line-height: 20.4px;
+  font-weight: 600;
+  position: absolute;
+  left: 40.66px;
+  top: 6.21px;
+  width: 70.4px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.reservar-sala {
+  color: #262626;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 230.62px;
+  top: -20.21px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 18px;
+  border-style:groove;
+  border-color: #9c0000;
+  cursor: pointer;
+}
+.sobre {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 13.300000190734863px;
+  line-height: 19.92px;
+  font-weight: 600;
+  position: absolute;
+  left: 147px;
+  top: 202.73px;
+  width: 89.45px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.frame-7 {
+  width: 1152px;
+  height: 18px;
+  position: absolute;
+  left: 213px;
+  top: 202.73px;
+}
+.pesquisa {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 13.300000190734863px;
+  line-height: 19.92px;
+  font-weight: 600;
+  position: absolute;
+  left: 443px;
+  top: 0px;
+  width: 89.45px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  justify-content: flex-start;
+}
+.informa-es-gerais {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 13.300000190734863px;
+  line-height: 19.92px;
+  font-weight: 600;
+  position: absolute;
+  left: 811px;
+  top: 0px;
+  width: 136px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.ensino {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 13.300000190734863px;
+  line-height: 19.92px;
+  font-weight: 600;
+  position: absolute;
+  left: 259px;
+  top: 0px;
+  width: 89.45px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.admiss-o {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 13.300000190734863px;
+  line-height: 19.92px;
+  font-weight: 600;
+  position: absolute;
+  left: 627px;
+  top: 0px;
+  width: 89.45px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.programa {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 13.300000190734863px;
+  line-height: 19.92px;
+  font-weight: 600;
+  position: absolute;
+  left: 75px;
+  top: 0px;
+  width: 89.45px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.lista-de-formados {
+  color: #616162;
+  text-align: left;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 13.300000190734863px;
+  line-height: 19.92px;
+  font-weight: 600;
+  position: absolute;
+  left: 1026px;
+  top: 0px;
+  width: 151px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.rectangle-23 {
+  margin-left: 10%;
+  margin-bottom: 5%;
+  margin-top: 24%;
+  font-family: Arial, sans-serif;
+  background-color: #8B0000; /* Fundo vermelho */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  height: 80%;
+padding: 10px;
+width: 80%;
+
+
+}
+.form-container {
+
+  background-color: #fff; /* Fundo branco do formulário */
+  border-radius: 8px;
+  max-width: 600px;
+  width: 100%;
+  color: #000;
+  height: 90%;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input, textarea, button {
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+}
+
+textarea {
+  resize: none;
+  height: 80px;
+}
+
+button {
+  background-color: #8B0000; /* Botão vermelho */
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #A52A2A; /* Vermelho mais claro */
+}
+
+.checkbox-group, .radio-group {
+  display: flex;
+  gap: 10px;
+}
+
+.checkbox-group label, .radio-group label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
